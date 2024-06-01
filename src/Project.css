@@ -1,0 +1,138 @@
+.BOTTON_COMPONENT{ 
+    width: 15%;
+    border: solid 3px gray;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+.Comp1{
+    height: 40%;
+    width: 50%;
+}  
+/* .ButtonCom{
+    height: 80%;
+    width: 40%;
+} */
+
+.CTest{
+    height: 34rem;
+    width: 80rem;
+}
+.CTest input{
+    height: 2rem;
+    width: 25rem;
+    border:1px solid rgb(222, 221, 221) ;
+    border-radius: 0.3rem;
+    outline: none;
+    text-align: center;
+}
+.CTest select{
+    height: 2rem;
+    width: 25rem;
+    border:1px solid rgb(222, 221, 221) ;
+    border-radius: 0.3rem;
+    margin-left: 8.8rem;
+    outline: none;
+}
+.TestR select{
+    height: 2rem;
+    width: 25rem;
+    border:1px solid rgb(222, 221, 221) ;
+    border-radius: 0.3rem;
+   margin-top: 2rem;
+    outline: none;
+    display: inline;
+}
+.GetCom {
+    height: 41rem;
+    width: 80rem;
+}
+.AllTest{
+    height: 30rem;
+    width: 40rem;
+}
+.Upcoming{
+    height: 30rem;
+    width: 80rem;
+}
+.logo{
+   height: 5rem;
+   width: 13rem;
+ 
+   
+}
+.HeaderGap{
+    margin-left: 50rem;
+}
+.header{
+    height: 5rem;
+}
+.search{
+    background-color:  rgb(180, 203, 236);  
+}
+.searchBox
+{
+    background-color: rgb(180, 203, 236);
+    width: 15rem;
+    height: 2.4rem;
+}
+.Module{
+   margin-bottom:1rem ;
+    height: 9rem;
+    width: 27rem;
+    margin-top: 1.5rem;
+    border-bottom-color: rgb(124, 9, 233);
+   margin-left: 2rem;
+}
+.Module span{
+    color: rgb(124, 9, 233);
+    font-size: 1rem;
+}
+.Duration{
+    height: 5rem;
+    width: 7rem;
+    border: 2px solid rgb(231, 228, 228);
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    border-bottom-color: green;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+.Resource{
+    height: 40rem;
+    width: 83rem;
+    box-shadow: 2xl;
+}
+.CardSize{
+    margin-bottom:1rem ;
+    height: 9.8rem;
+    width: 20rem;
+    margin-top: 1.5rem;
+    border-bottom-color: rgb(124, 9, 233);
+   margin-left: 2rem;
+    
+}
+.Batch{
+    width: 85vw;
+}
+.selected-button{
+    width: 15%;
+    border: solid 3px gray;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    background-color:rgb(12, 12, 52) ;
+    color:white
+  
+  }
+  .hover-button:hover{
+    background-color: rgb(25, 25, 54);
+    color: white;
+    
+    }
+    .hover-button{
+      height: 3rem;
+      width: 9rem;
+      border-radius: 3px;
+      text-align: start;
+      margin-left: 1px;
+    }

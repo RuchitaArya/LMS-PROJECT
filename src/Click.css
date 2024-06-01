@@ -1,0 +1,39 @@
+.MiniCard{
+    height:20rem ;
+    width: 25rem;
+    background-color: white;
+    border-radius: 0.8rem;
+    position: absolute;
+    top: 0;
+    left: 64rem;
+}
+.Mini{
+    border: 2px solid rgb(235, 233, 233);
+    height:7rem ;
+    width: 23rem;
+    text-align: center;
+    margin: auto;
+    border-radius: 0.7rem;
+}
+.text_size{
+    font-size: 1.7rem;
+    font-weight: 500;
+    margin-top: 1rem;
+}
+.fa-registered{
+    font-size: 3.1rem;
+}
+.amgle1{
+    margin-left: 13rem;
+}.amgle2{
+    margin-left: 15rem;
+}
+.amgle3{
+    margin-left: 16rem;
+}
+.logout{
+    border: 2px solid rgb(235, 233, 233);
+    height:3rem ;
+    width: 23rem;
+    border-radius: 0.7rem;
+}
