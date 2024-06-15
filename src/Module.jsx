@@ -25,7 +25,7 @@ function Module() {
                </p>
             </div>
          </div>
-         <div className="Module border-solid border-2 border-light-gray-500 rounded-2xl p-2">
+         <div className="Module border-solid border-2 border-light-gray-500 shadow-2xl rounded-2xl p-2">
            <span>Core Python </span> <br />
             <div className="flex">
             <p className="Duration">Duration
@@ -40,7 +40,7 @@ function Module() {
                </p>
             </div>
          </div>
-         <div className="Module border-solid border-2 border-light-gray-500 rounded-2xl p-2">
+         <div className="Module border-solid border-2 border-light-gray-500 shadow-2xl rounded-2xl p-2">
            <span>Core Python </span> <br />
             <div className="flex">
             <p className="Duration">Duration
@@ -57,7 +57,7 @@ function Module() {
          </div><br />
          </div>
          <div className="flex gap-3">
-         <div className="Module border-solid border-2 border-light-gray-500 rounded-2xl p-2">
+         <div className="Module border-solid border-2 border-light-gray-500 shadow-2xl rounded-2xl p-2">
            <span>Core Python </span> <br />
             <div className="flex">
             <p className="Duration">Duration
@@ -72,7 +72,7 @@ function Module() {
                </p>
             </div>
          </div>
-         <div className="Module border-solid border-2 border-light-gray-500 rounded-2xl p-2">
+         <div className="Module border-solid border-2 border-light-gray-500 shadow-2xl rounded-2xl p-2">
            <span>Core Python </span> <br />
             <div className="flex">
             <p className="Duration">Duration
@@ -87,7 +87,7 @@ function Module() {
                </p>
             </div>
          </div>
-         <div className="Module border-solid border-2 border-light-gray-500 rounded-2xl p-2">
+         <div className="Module border-solid border-2 border-light-gray-500 shadow-2xl rounded-2xl p-2">
            <span>Core Python </span> <br />
             <div className="flex">
             <p className="Duration">Duration
@@ -104,7 +104,7 @@ function Module() {
          </div>
          </div>
          <div className="flex gap-3">
-         <div className="Module border-solid border-2 border-light-gray-500 rounded-2xl p-2">
+         <div className="Module border-solid border-2 border-light-gray-500 shadow-2xl rounded-2xl p-2">
            <span>Core Python </span> <br />
             <div className="flex">
             <p className="Duration">Duration
@@ -119,7 +119,7 @@ function Module() {
                </p>
             </div>
          </div>
-         <div className="Module border-solid border-2 border-light-gray-500 rounded-2xl p-2">
+         <div className="Module border-solid border-2 border-light-gray-500 shadow-2xl rounded-2xl p-2">
            <span>Core Python </span> <br />
             <div className="flex">
             <p className="Duration">Duration
@@ -134,7 +134,7 @@ function Module() {
                </p>
             </div>
          </div>
-         <div className="Module border-solid border-2 border-light-gray-500 rounded-2xl p-2">
+         <div className="Module border-solid border-2 border-light-gray-500 shadow-2xl rounded-2xl p-2">
            <span>Core Python </span> <br />
             <div className="flex">
             <p className="Duration">Duration
